@@ -24,7 +24,3 @@
 |![](./Icons_resized/Graph/SurrealDB.png)|SurrealDB|Free tier|New SQL, real-time, multi-model, JSON document store.|on-premise|[read more](https://surrealdb.com/)|
 |![](./Icons_resized/Key-Value/ArangoDB.png)|ArangoDB|Free tier|Multi-model, graph, document, key/value, ACID transactions.||Cloud, on-premise[read more](https://arangodb.com/)|
 |![](./Icons_resized/Graph/Neo4j.png)|Neo4j|Free tier, 65$/month|Graph database, high-performance, relationships-focused, ACID-compliant.|Neo4J cloud, on-premise|[read more](https://neo4j.com/)|
-
-https://www.predictiveanalyticstoday.com/top-nosql-document-databases/
-https://www.predictiveanalyticstoday.com/top-object-databases/
-https://en.wikipedia.org/wiki/Graph_database  
